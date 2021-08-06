@@ -1,0 +1,15 @@
+---
+title:  "Starting My Blog"
+date:   2021-08-06 20:22:30
+categories: jekyll update
+---
+
+
+I have started this blog to record what I have learned!
+The first posting will be about how I created this Blog with github pages...
+
+I will keep editing this page and add an introduction of me and this blog.
+
+Check out the [notion page][notion] I use before I upload things on my blog!
+
+[notion]:    https://icyforest.notion.site/fe2f5a6371d04a0d9bb62f7164548c8f?v=ae63299332124f6b90beb30e1779fc6a
