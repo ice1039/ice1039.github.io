@@ -98,7 +98,7 @@ p
   overflow-y:auto;
   z-index:1000;
   margin-top:-4px;
-  border-top:solid #d90006;
+  border-top:solid #1b1a4b;
   transition:all .4s ease 0;
   border-width:4px
 }
@@ -157,7 +157,7 @@ p
 
 .nav-toggle {
     display: none;
-    color: #d90006;
+    color: #1b1a4b;
     padding-left: 10px;
     padding-top: 10px;
   }
@@ -173,7 +173,7 @@ p
 
 .brand:hover
 {
-  color:#d90006;
+  color:#1b1a4b;
   -o-transition:.5s;
   -ms-transition:.5s;
   -moz-transition:.5s;
@@ -207,8 +207,8 @@ p
 
 blockquote
 {
-  border-left:2px solid #d90006;
-  border-right:2px solid #d90006;
+  border-left:2px solid #1b1a4b;
+  border-right:2px solid #1b1a4b;
   margin-left:-40px;
   margin-right:-40px;
   padding-left:40px;
@@ -292,7 +292,7 @@ pre
 {
   font-size:3em;
   font-weight:700;
-  color:darkslateblue;
+  color:#1b1a4b;
   line-height:130%
 }
 
@@ -316,7 +316,7 @@ pre
 #welcome-greeting h2 a
 {
   font-weight:100;
-  color:darkslateblue;
+  color:#1b1a4b;
 }
 
 .credit
@@ -370,7 +370,7 @@ pre
 {
   font-size:35px;
   font-weight:700;
-  color:#d90006;
+  color:#1b1a4b;
   padding-top:15px
 }
 
@@ -693,7 +693,7 @@ time
 }
 
 #sidebar-wrapper {
-    border-right: 4px solid #d90006;
+    border-right: 4px solid #1b1a4b;
     border-top: none;
     left: 0px;
 }
