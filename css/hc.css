@@ -6,14 +6,14 @@ body
   color:#2c3e50;
   background-color:#f0f0f0;
   width:100%;
-  border-top:solid #d90006;
+  border-top:solid #0b0a4d;
   border-width:4px
 }
 
 h1,h2,h3,h4,h5,h6
 {
   font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
-  color:#d90006
+  color:#0b0a4d
 }
 
 h1
@@ -552,7 +552,7 @@ time
   font-weight:bolder;
   font-size:2.5em;
   line-height:55px;
-  color:#d90006
+  color:#0b0a4d
 }
 
 .user-card p
